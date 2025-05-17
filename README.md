@@ -18,13 +18,12 @@ Olá pessoal, Segue um MVP criado com objetivo de aprender e exercitar na práti
 A inteligência artificial (IA) tem se consolidado como uma ferramenta indispensável para a transformação digital em diversos setores, inclusive na área Financeira. 
 
 ## 2. Definições dos Agentes:
-Definições dos Agentes:
 
-O cerne do projeto reside na definição de quatro agentes de IA especializados:
-Agente Buscador: Este agente é projetado para atuar como um trader especialista em análise de ações. Seu papel principal é usar a ferramenta de busca do Google (google_search) para encontrar métricas financeiras chave (valor da ação, P/L, ROE e P/VP) para as ações fornecidas pelo usuário. Ele prioriza a busca pelos dados mais recentes disponíveis em fontes financeiras confiáveis como B3, Google Finance, Yahoo Finance e Investing.com.
-Agente Planejador: Este agente recebe as informações encontradas pelo agente_buscador e adiciona três sugestões adicionais de ações "seguras". Ele também usa a Busca do Google para encontrar as mesmas métricas financeiras para essas ações sugeridas. Seu objetivo é apresentar uma lista combinada das ações iniciais do usuário e as sugestões da IA, juntamente com seus dados.
-Agente Analisador: Este agente atua como um trader tipo "primo rico", especializado em análise de investimentos. Ele pega a lista combinada de ações e seus dados e gera uma tabela para exibir essas informações. Ele é instruído a formatar a tabela de forma clara, marcar as sugestões da IA, incluir a data de extração dos dados e fornecer uma análise e conclusão breve e envolvente após a tabela.
-Agente Revisor: Este agente funciona como um consultor financeiro e revisor de conteúdo meticuloso. Sua tarefa é revisar o conteúdo gerado pelo agente_analisador quanto à clareza, concisão, correção e tom. Ele fornece feedback sobre o conteúdo, afirmando se está pronto para publicar ou sugerindo melhorias.
+O cerne do projeto reside na definição de quatro agentes de IA especializados:  
+**_Agente Buscador_**: Este agente é projetado para atuar como um trader especialista em análise de ações. Seu papel principal é usar a ferramenta de busca do Google (google_search) para encontrar métricas financeiras chave (valor da ação, P/L, ROE e P/VP) para as ações fornecidas pelo usuário. Ele prioriza a busca pelos dados mais recentes disponíveis em fontes financeiras confiáveis como B3, Google Finance, Yahoo Finance e Investing.com.  
+**_Agente Planejador_**: Este agente recebe as informações encontradas pelo agente_buscador e adiciona três sugestões adicionais de ações "seguras". Ele também usa a Busca do Google para encontrar as mesmas métricas financeiras para essas ações sugeridas. Seu objetivo é apresentar uma lista combinada das ações iniciais do usuário e as sugestões da IA, juntamente com seus dados.  
+**_Agente Analisador_**: Este agente atua como um trader tipo "primo rico", especializado em análise de investimentos. Ele pega a lista combinada de ações e seus dados e gera uma tabela para exibir essas informações. Ele é instruído a formatar a tabela de forma clara, marcar as sugestões da IA, incluir a data de extração dos dados e fornecer uma análise e conclusão breve e envolvente após a tabela.  
+**_Agente Revisor_**: Este agente funciona como um consultor financeiro e revisor de conteúdo meticuloso. Sua tarefa é revisar o conteúdo gerado pelo agente_analisador quanto à clareza, concisão, correção e tom. Ele fornece feedback sobre o conteúdo, afirmando se está pronto para publicar ou sugerindo melhorias.
 
 ## 🧐 3. Fluxo de Execução dos Agentes:
 A parte principal do script orquestra a interação entre esses agentes:
@@ -47,5 +46,5 @@ Uma observação a se colocar é sobre os direitos autorais. Essa é uma conside
 
 ### Agradecimentos
 Agradecimentos ao trio espetacular de intrutores FLV (Fabrício, Luciano e Valquiria) uma alusão ao brilhante MSN (Messi, Suarez e Neymar do Barcelona). 
-Foi um imersão fantástica e uma jornada que não tem mais volta ao mundo da magia IA.
+Foi um imersão fantástica e uma jornada que não tem mais volta ao mundo da IA.
 
