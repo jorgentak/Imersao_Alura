@@ -1,4 +1,4 @@
-# Projeto Imersao_Alura
+# Projeto Imersao Alura
 
 #  👀 "Ações + IA: Vanguarda da Revolução Financeira!"
 
@@ -10,9 +10,8 @@ Olá pessoal, Segue um MVP criado com objetivo de aprender e exercitar na práti
 
 ### Objetivos
 
-**Este projeto utiliza uma série de agentes de IA, construídos com o Google Agent Development Kit (ADK) e o modelo Gemini, para analisar informações de ações. O fluxo de trabalho é projetado para receber códigos de ações de um usuário, coletar dados financeiros relevantes, sugerir ações adicionais, apresentar as informações
-  combinadas em um formato estruturado (uma tabela) e, em seguida, revisar o conteúdo gerado.
-  Utilizar estas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
+**Este projeto utiliza uma série de agentes de IA, construídos com o Google Agent Development Kit (ADK) e o modelo Gemini, para analisar informações de ações. O fluxo de trabalho é projetado para receber códigos de ações de um usuário, coletar dados financeiros relevantes, sugerir ações adicionais, apresentar as informações combinadas em um formato estruturado (uma tabela) e, em seguida, revisar o conteúdo gerado.
+Utilizar estas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
 ### Aqui está um detalhe do que o projeto faz:
 
@@ -51,5 +50,7 @@ Para uma primeira experiencia foi fascinante o uso das ferramentas Google de IA.
 
 Favor desconsiderar as informações citadas aqui e também atentar quando for implementar e disponibilizar as questões dos direitos autorais de propriedade.
 
-### Exemplos e Insigths
+### Agradecimentos
+Agradecimentos ao trio espetacular de intrutores FLV (Fabrício, Luciano e Valquiria) uma alusao ao brilhante MSN (Messi, Suarez e Neymar do Barcelona). 
+Foi um imersão fantástica e uma jornada que não tem mais volta ao mundo da magia IA.
 
