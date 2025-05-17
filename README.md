@@ -11,7 +11,6 @@ Olá pessoal, Segue um MVP criado com objetivo de aprender e exercitar na práti
 ### Objetivos
 
 **Este projeto utiliza uma série de agentes de IA, construídos com o Google Agent Development Kit (ADK) e o modelo Gemini, para analisar informações de ações. O fluxo de trabalho é projetado para receber códigos de ações de um usuário, coletar dados financeiros relevantes, sugerir ações adicionais, apresentar as informações combinadas em um formato estruturado (uma tabela) e, em seguida, revisar o conteúdo gerado.
-Utilizar estas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
 
 ### Aqui está um detalhe do que o projeto faz:
 
