@@ -47,6 +47,6 @@ Para uma primeira experiencia foi fascinante o uso das ferramentas Google de IA.
 Favor desconsiderar as informações citadas aqui e também atentar quando for implementar e disponibilizar as questões dos direitos autorais de propriedade.
 
 ### Agradecimentos
-Agradecimentos ao trio espetacular de intrutores FLV (Fabrício, Luciano e Valquiria) uma alusao ao brilhante MSN (Messi, Suarez e Neymar do Barcelona). 
+Agradecimentos ao trio espetacular de intrutores FLV (Fabrício, Luciano e Valquiria) uma alusão ao brilhante MSN (Messi, Suarez e Neymar do Barcelona). 
 Foi um imersão fantástica e uma jornada que não tem mais volta ao mundo da magia IA.
 
