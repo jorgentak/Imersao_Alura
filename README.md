@@ -35,7 +35,7 @@ Em seguida, ele chama o agente_analisador, passando a lista de ações (do usuá
 Finalmente, ele chama o agente_revisor, fornecendo a lista de ações e a tabela gerada pelo analisador. Este agente revisa o conteúdo e fornece feedback.
 
 ## 🚀 Resultados
-[Apresente os resultados do seu projeto](/Projeto_Imersao_Acoes_IA.ipynb)
+[Visualize aqui o resultado do projeto](/Projeto_Imersao_Acoes_IA.ipynb)
 
 ## 💭 Reflexão (Opcional)
 Em resumo, a experiência inicial com as ferramentas de IA do Google superou a expectativa, devido à rapidez, facilidade de uso (correção de erros de forma autodidata), capacidade de foco em conteúdo relevante e a valiosa contribuição do agente revisor para o desenvolvimento do projeto.
