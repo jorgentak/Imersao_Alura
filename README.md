@@ -40,11 +40,10 @@ Finalmente, ele chama o agente_revisor, fornecendo a lista de ações e a tabela
 )
 
 ## 💭 Reflexão (Opcional)
-Como foi só para testar e aprender a utilizar a ferramenta, foi extremamente rápido, e autodidata para corrigir os erros, tornando fácil sua implementação. 
-Um outro ponto a destacar e de ter a visão critica tirando o conteúdo que não interessa, e observando o agente revisor que solicitou várias melhorias e informações relevantes de análise para o desenvolvimento do projeto.
-Para uma primeira experiencia foi fascinante o uso das ferramentas Google de IA.
+Em resumo, a experiência inicial com as ferramentas de IA do Google superou a expectativa, devido à rapidez, facilidade de uso (correção de erros de forma autodidata), capacidade de foco em conteúdo relevante e a valiosa contribuição do agente revisor para o desenvolvimento do projeto.
+Foram necessárias vários refinamentos para chegar a este projeto final e devido ao tempo não consegui implementar várias ideais que mapei ao fazer o esboco inicial do projeto.
 
-Favor desconsiderar as informações citadas aqui e também atentar quando for implementar e disponibilizar as questões dos direitos autorais de propriedade.
+Uma observação a se colocar é sobre os direitos autorais. Essa é uma consideração extremamente importante ao implementar e disponibilizar qualquer conteúdo.
 
 ### Agradecimentos
 Agradecimentos ao trio espetacular de intrutores FLV (Fabrício, Luciano e Valquiria) uma alusão ao brilhante MSN (Messi, Suarez e Neymar do Barcelona). 
