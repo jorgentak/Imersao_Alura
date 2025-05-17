@@ -16,10 +16,7 @@ Utilizar estas tecnologias para criar conteúdos que sejam o mais realista poss�
 ### Aqui está um detalhe do que o projeto faz:
 
 ## 1. Configuração e Inicialização:
-A inteligência artificial (IA) tem se consolidado como uma ferramenta indispensável para a transformação digital em diversos setores, inclusive na área Financeira. No exemplo abaixo, exploramos a utilização do GOOGLE GEMINI CHAPGPT e também do Gamma para a criação uma apresentação discorrendo sobre o uso da ferramenta Databricks na área de Pessoas.
-O código começa instalando as bibliotecas necessárias, como google-genai, tabulate e google-adk.
-Ele configura o acesso à API do Google Gemini definindo a chave da API.
-Ele inicializa o cliente Gemini e importa vários módulos necessários para criar e executar agentes de IA, gerenciar sessões e exibir a saída em um notebook Jupyter.
+A inteligência artificial (IA) tem se consolidado como uma ferramenta indispensável para a transformação digital em diversos setores, inclusive na área Financeira. 
 
 ## 2. Definições dos Agentes:
 Definições dos Agentes:
