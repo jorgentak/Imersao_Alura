@@ -1,4 +1,4 @@
-# Projeto Imersao Alura
+# Projeto Imersão Alura
 
 #  👀 "Ações + IA: Vanguarda da Revolução Financeira!"
 
